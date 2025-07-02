@@ -67,6 +67,7 @@ This analysis answers key questions like:
 ## 📁 Dataset Source
 
 - Spotify Artist and Track Dataset from **Kaggle**
+- Link to dataset : https://www.kaggle.com/datasets/nimishasen27/spotify-dataset
   > Contains: `artists.csv`, `tracks.csv` with audio features and metadata
 
 ---
